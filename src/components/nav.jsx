@@ -5,7 +5,7 @@ import { BsCodeSlash } from "react-icons/bs";
 import { MdOutlineSchool } from "react-icons/md";
 import { useState } from "react";
 
-const nav = () => {
+const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
 
   return (
@@ -49,4 +49,4 @@ const nav = () => {
   );
 };
 
-export default nav;
+export default Nav;

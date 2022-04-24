@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 import CV from "./cv";
-import ME from "../assets/me.png";
+import ME from "../assets/me.jpeg";
 import Socials from "./socials";
 
 const header = () => {
@@ -14,9 +14,7 @@ const header = () => {
         <CV />
         <Socials />
 
-        <div className="me">
-          <img src={ME} alt="me" />
-        </div>
+        <img className="me-image" src={ME} alt="me" />
 
         <a href="#contact" className="scroll__down">
           Scroll Down
