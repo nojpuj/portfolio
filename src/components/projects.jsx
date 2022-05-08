@@ -1,6 +1,7 @@
 import React from "react";
 import "./projects.css";
 import Thumbnail from "../assets/utforsk-alpene-thumbnail.png";
+import Thumbnail2 from "../assets/vphoto-thumbnail.png";
 
 const projects = () => {
   return (
@@ -24,6 +25,21 @@ const projects = () => {
             </a>
             <a
               href="https://utforsk-alpene.vercel.app/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="projects__item">
+          <div className="projects__item-image">
+            <img src={Thumbnail2} alt="Utforsk Alpene" />
+          </div>
+          <h2>VPhoto (WIP)</h2>
+          <div className="projects__item-cta">
+            <a
+              href="https://vphoto.lt/"
               className="btn btn-primary"
               target="_blank"
             >
