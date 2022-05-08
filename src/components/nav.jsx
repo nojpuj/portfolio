@@ -2,7 +2,7 @@ import React from "react";
 import "./nav.css";
 import { AiOutlineHome, AiOutlineUser, AiOutlineMessage } from "react-icons/ai";
 import { BsCodeSlash } from "react-icons/bs";
-import { MdOutlineSchool } from "react-icons/md";
+import { MdOutlineSchool, MdWorkOutline } from "react-icons/md";
 import { useState } from "react";
 
 const Nav = () => {
@@ -37,6 +37,13 @@ const Nav = () => {
         className={activeNav === "#education" ? "active" : ""}
       >
         <MdOutlineSchool />
+      </a>
+      <a
+        href="#projects"
+        onClick={() => setActiveNav("#projects")}
+        className={activeNav === "#projects" ? "active" : ""}
+      >
+        <MdWorkOutline />
       </a>
       <a
         href="#contact"
