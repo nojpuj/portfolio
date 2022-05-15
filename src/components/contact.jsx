@@ -1,7 +1,7 @@
 import React from "react";
 import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
-import { RiMessengerLine } from "react-icons/ri";
+import { RiLinkedinBoxFill } from "react-icons/ri";
 import { FiTwitter } from "react-icons/fi";
 
 const contact = () => {
@@ -30,10 +30,13 @@ const contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <RiMessengerLine className="contact__option-icon" />
-            <h4>Messenger</h4>
+            <RiLinkedinBoxFill className="contact__option-icon" />
+            <h4>LinkedIn</h4>
             <h5>Nojus Pujanauskas</h5>
-            <a href="https://m.me/nojus.pujanauskas.1" target="_blank">
+            <a
+              href="https://www.linkedin.com/in/nojus-pujanauskas-35693223a/"
+              target="_blank"
+            >
               Send a message
             </a>
           </article>
