@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f95b49e1.css",
-    "main.js": "/portfolio/static/js/main.43a324aa.js",
+    "main.js": "/portfolio/static/js/main.a5a351ed.js",
     "static/media/vphoto-thumbnail.png": "/portfolio/static/media/vphoto-thumbnail.dff91349d9eb5232931f.png",
-    "static/media/assembly-thumbnail.png": "/portfolio/static/media/assembly-thumbnail.9ee6a7824b9460c303af.png",
     "static/media/utforsk-alpene-thumbnail.png": "/portfolio/static/media/utforsk-alpene-thumbnail.6ac3ab16a6c929f7e6d9.png",
     "static/media/me.jpeg": "/portfolio/static/media/me.1b5db1425289e95499f7.jpeg",
+    "static/media/assembly-thumbnail.png": "/portfolio/static/media/assembly-thumbnail.d127d7d4729296d1609e.png",
     "static/media/me-about.jpeg": "/portfolio/static/media/me-about.54065324d798210ab286.jpeg",
     "static/media/nojus_pujanauskas_cv.pdf": "/portfolio/static/media/nojus_pujanauskas_cv.9ea50155021ba173c83a.pdf",
     "static/media/bg-texture.png": "/portfolio/static/media/bg-texture.684928c6dd791afe1081.png",
     "index.html": "/portfolio/index.html",
     "main.f95b49e1.css.map": "/portfolio/static/css/main.f95b49e1.css.map",
-    "main.43a324aa.js.map": "/portfolio/static/js/main.43a324aa.js.map"
+    "main.a5a351ed.js.map": "/portfolio/static/js/main.a5a351ed.js.map"
   },
   "entrypoints": [
     "static/css/main.f95b49e1.css",
-    "static/js/main.43a324aa.js"
+    "static/js/main.a5a351ed.js"
   ]
 }
