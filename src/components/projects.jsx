@@ -2,6 +2,7 @@ import React from "react";
 import "./projects.css";
 import Thumbnail from "../assets/utforsk-alpene-thumbnail.png";
 import Thumbnail2 from "../assets/vphoto-thumbnail.png";
+import Thumbnail3 from "../assets/assembly-thumbnail.png";
 
 const projects = () => {
   return (
@@ -40,6 +41,28 @@ const projects = () => {
           <div className="projects__item-cta">
             <a
               href="https://vphoto.lt/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="projects__item">
+          <div className="projects__item-image">
+            <img src={Thumbnail3} alt="Utforsk Alpene" />
+          </div>
+          <h2>Assembly (WIP)</h2>
+          <div className="projects__item-cta">
+            <a
+              href="https://github.com/nojpuj/assembly"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://assembly-nojpuj.vercel.app/#"
               className="btn btn-primary"
               target="_blank"
             >
