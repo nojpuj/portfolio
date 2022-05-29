@@ -52,7 +52,7 @@ const projects = () => {
           <div className="projects__item-image">
             <img src={Thumbnail3} alt="Utforsk Alpene" />
           </div>
-          <h2>Assembly (WIP)</h2>
+          <h2>Assembly</h2>
           <div className="projects__item-cta">
             <a
               href="https://github.com/nojpuj/assembly"
