@@ -52,7 +52,7 @@ header {
   object-fit: cover;
   border-radius: 2rem;
   width: 60%;
-  height: 50%;
+  height: 60%;
 }
 
 /* =================== SCROLL DOWN =================== */
@@ -75,7 +75,7 @@ header {
 
   .me-image {
     width: 80%;
-    height: 50%;
+    height: 65%;
   }
 }
 
