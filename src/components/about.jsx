@@ -18,11 +18,10 @@ const about = () => {
 
         <div className="about__content">
           <p>
-            I'm an ambitious and passionate 17-year-old coder, skater, gamer,
-            alpine-skier and basketball player. Because of my long time gaming
-            career, I know quite a lot about computers. Not only coding them,
-            but also building them and setting them up. Get in touch with me
-            from the contacts section!
+            I'm an ambitious and passionate 18-year-old coder, skater and
+            guitarist. Because of my long time gaming career, I know quite a lot
+            about computers. Not only coding them, but also building them and
+            setting them up. Get in touch with me from the contacts section!
           </p>
 
           <a href="#contact" className="btn btn-primary">

@@ -45,7 +45,7 @@ const exp = () => {
               <IoMdCheckmarkCircleOutline className="experience__details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Basic</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>

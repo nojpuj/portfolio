@@ -24,8 +24,8 @@ const contact = () => {
           <article className="contact__option">
             <FiTwitter className="contact__option-icon" />
             <h4>Twitter</h4>
-            <h5>@nojpuj</h5>
-            <a href="https://twitter.com/nojpuj" target="_blank">
+            <h5>@noisyyb</h5>
+            <a href="https://twitter.com/noisyyb" target="_blank">
               Send a DM
             </a>
           </article>

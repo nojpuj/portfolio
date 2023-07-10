@@ -38,7 +38,7 @@ const footer = () => {
         <a href="https://www.instagram.com/nojpuj/" target="_blank">
           <AiFillInstagram />
         </a>
-        <a href="https://twitter.com/nojpuj" target="_blank">
+        <a href="https://twitter.com/noisyyb" target="_blank">
           <AiOutlineTwitter />
         </a>
       </div>

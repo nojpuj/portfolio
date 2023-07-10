@@ -31,8 +31,8 @@ const education = () => {
             <article className="experience__details">
               <MdOutlineSchool className="experience__details-icon" />
               <div>
-                <h4>Christian Gymnasium</h4>
-                <small className="text-light">Student 2020-Present</small>
+                <h4>Christian Gymnasium (HS)</h4>
+                <small className="text-light">Graduated 2023</small>
               </div>
             </article>
           </div>

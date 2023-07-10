@@ -3,6 +3,8 @@ import "./projects.css";
 import Thumbnail from "../assets/utforsk-alpene-thumbnail.png";
 import Thumbnail2 from "../assets/vphoto-thumbnail.png";
 import Thumbnail3 from "../assets/assembly-thumbnail.png";
+import Thumbnail4 from "../assets/murra.png";
+import Thumbnail5 from "../assets/lncc.png";
 
 const projects = () => {
   return (
@@ -37,7 +39,7 @@ const projects = () => {
           <div className="projects__item-image">
             <img src={Thumbnail2} alt="Utforsk Alpene" />
           </div>
-          <h2>VPhoto (WIP)</h2>
+          <h2>VPhoto</h2>
           <div className="projects__item-cta">
             <a
               href="https://vphoto.lt/"
@@ -63,6 +65,36 @@ const projects = () => {
             </a>
             <a
               href="https://assembly-nojpuj.vercel.app/#"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="projects__item">
+          <div className="projects__item-image">
+            <img src={Thumbnail4} alt="Utforsk Alpene" />
+          </div>
+          <h2>MURRA</h2>
+          <div className="projects__item-cta">
+            <a
+              href="https://murra.ch/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="projects__item">
+          <div className="projects__item-image">
+            <img src={Thumbnail5} alt="Utforsk Alpene" />
+          </div>
+          <h2>LNCC</h2>
+          <div className="projects__item-cta">
+            <a
+              href="https://www.lncc.no/"
               className="btn btn-primary"
               target="_blank"
             >
