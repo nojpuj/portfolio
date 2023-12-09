@@ -31,3 +31,19 @@ nav a.active {
   background: var(--color-p);
   color: var(--color-bg);
 }
+
+/* =================== MEDIA (small devices) =================== */
+
+@media screen and (max-width: 600px) {
+  nav a {
+    padding: 0.6rem;
+  }
+}
+
+/* =================== MEDIA (really small devices) =================== */
+
+@media screen and (max-width: 320px) {
+  nav a {
+    padding: 0.4rem;
+  }
+}
