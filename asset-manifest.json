@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b02ff8c0.css",
+    "main.css": "/portfolio/static/css/main.5adcf7f1.css",
     "main.js": "/portfolio/static/js/main.f7b3e5ae.js",
     "static/media/vphoto-thumbnail.png": "/portfolio/static/media/vphoto-thumbnail.dff91349d9eb5232931f.png",
     "static/media/utforsk-alpene-thumbnail.png": "/portfolio/static/media/utforsk-alpene-thumbnail.6ac3ab16a6c929f7e6d9.png",
@@ -12,11 +12,11 @@
     "static/media/me.jpg": "/portfolio/static/media/me.5a96e09678f673d11d9a.jpg",
     "static/media/bg-texture.png": "/portfolio/static/media/bg-texture.684928c6dd791afe1081.png",
     "index.html": "/portfolio/index.html",
-    "main.b02ff8c0.css.map": "/portfolio/static/css/main.b02ff8c0.css.map",
+    "main.5adcf7f1.css.map": "/portfolio/static/css/main.5adcf7f1.css.map",
     "main.f7b3e5ae.js.map": "/portfolio/static/js/main.f7b3e5ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.b02ff8c0.css",
+    "static/css/main.5adcf7f1.css",
     "static/js/main.f7b3e5ae.js"
   ]
 }
