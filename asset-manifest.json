@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4aa71b4e.css",
-    "main.js": "/portfolio/static/js/main.04628c06.js",
+    "main.css": "/portfolio/static/css/main.b02ff8c0.css",
+    "main.js": "/portfolio/static/js/main.f7b3e5ae.js",
     "static/media/vphoto-thumbnail.png": "/portfolio/static/media/vphoto-thumbnail.dff91349d9eb5232931f.png",
     "static/media/utforsk-alpene-thumbnail.png": "/portfolio/static/media/utforsk-alpene-thumbnail.6ac3ab16a6c929f7e6d9.png",
-    "static/media/lncc.png": "/portfolio/static/media/lncc.99beed42125fecbf78a7.png",
-    "static/media/me.jpg": "/portfolio/static/media/me.ae6aa68fedad4e290cf4.jpg",
-    "static/media/nojus_pujanauskas_cv.pdf": "/portfolio/static/media/nojus_pujanauskas_cv.8962053c241577a2a640.pdf",
+    "static/media/lncc.png": "/portfolio/static/media/lncc.be98f47643afda768c5e.png",
+    "static/media/me-about.jpeg": "/portfolio/static/media/me-about.3c5a154d8311f2adc32f.jpeg",
     "static/media/assembly-thumbnail.png": "/portfolio/static/media/assembly-thumbnail.d127d7d4729296d1609e.png",
-    "static/media/me-about.jpeg": "/portfolio/static/media/me-about.54065324d798210ab286.jpeg",
+    "static/media/nojus_pujanauskas_cv.pdf": "/portfolio/static/media/nojus_pujanauskas_cv.6bc0331d2e531dda8bf8.pdf",
     "static/media/murra.png": "/portfolio/static/media/murra.4dd7db36b93dc6d2340e.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.5a96e09678f673d11d9a.jpg",
     "static/media/bg-texture.png": "/portfolio/static/media/bg-texture.684928c6dd791afe1081.png",
     "index.html": "/portfolio/index.html",
-    "main.4aa71b4e.css.map": "/portfolio/static/css/main.4aa71b4e.css.map",
-    "main.04628c06.js.map": "/portfolio/static/js/main.04628c06.js.map"
+    "main.b02ff8c0.css.map": "/portfolio/static/css/main.b02ff8c0.css.map",
+    "main.f7b3e5ae.js.map": "/portfolio/static/js/main.f7b3e5ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa71b4e.css",
-    "static/js/main.04628c06.js"
+    "static/css/main.b02ff8c0.css",
+    "static/js/main.f7b3e5ae.js"
   ]
 }
