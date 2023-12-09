@@ -32,9 +32,6 @@ const footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com/nojus.pujanauskas.1" target="_blank">
-          <AiFillFacebook />
-        </a>
         <a href="https://www.instagram.com/nojpuj/" target="_blank">
           <AiFillInstagram />
         </a>

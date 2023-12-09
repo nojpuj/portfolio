@@ -14,10 +14,13 @@ const contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <MdOutlineEmail className="contact__option-icon" />
-            <h4>Email</h4>
-            <h5>pujanoj@gmail.com</h5>
-            <a href="mailto:pujanoj@gmail.com" target="_blank">
+            <RiLinkedinBoxFill className="contact__option-icon" />
+            <h4>LinkedIn</h4>
+            <h5>Nojus Pujanauskas</h5>
+            <a
+              href="https://www.linkedin.com/in/nojus-pujanauskas-35693223a/"
+              target="_blank"
+            >
               Send a message
             </a>
           </article>
@@ -27,17 +30,6 @@ const contact = () => {
             <h5>@noisyyb</h5>
             <a href="https://twitter.com/noisyyb" target="_blank">
               Send a DM
-            </a>
-          </article>
-          <article className="contact__option">
-            <RiLinkedinBoxFill className="contact__option-icon" />
-            <h4>LinkedIn</h4>
-            <h5>Nojus Pujanauskas</h5>
-            <a
-              href="https://www.linkedin.com/in/nojus-pujanauskas-35693223a/"
-              target="_blank"
-            >
-              Send a message
             </a>
           </article>
         </div>

@@ -39,7 +39,7 @@
 
   .about__me {
     width: 50%;
-    margin: 6rem auto 9rem;
+    margin: 3rem auto 9rem;
   }
 
   .about__content p {
@@ -52,7 +52,7 @@
 @media screen and (max-width: 600px) {
   .about__me {
     width: 55%;
-    margin: 4rem auto 6rem;
+    margin: 1rem auto 6rem;
   }
 
   .about__content {
@@ -60,6 +60,31 @@
   }
 
   .about__content p {
-    margin: 1.5rem 0;
+    margin: 0 0 2rem 0;
+  }
+
+  h5 {
+    margin-top: 2rem;
+  }
+}
+
+/* =================== MEDIA (really small devices) =================== */
+
+@media screen and (max-width: 320px) {
+  .about__me {
+    width: 55%;
+    margin: 1rem auto 6rem;
+  }
+
+  .about__content {
+    text-align: center;
+  }
+
+  .about__content p {
+    margin: 0 0 2rem 0;
+  }
+
+  h5 {
+    margin-top: 2rem;
   }
 }

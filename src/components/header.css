@@ -46,12 +46,12 @@ header {
   display: grid;
   text-align: center;
   left: 50%;
-  margin-top: 4rem;
+  margin-top: 6rem;
   transform: translateX(-50%);
   position: absolute;
   object-fit: cover;
   border-radius: 2rem;
-  width: 60%;
+  width: 40%;
   height: 60%;
 }
 
@@ -66,7 +66,46 @@ header {
   font-size: 0.9rem;
 }
 
-/* =================== MEDIA (medium devices) =================== */
+/* =================== MEDIA (4k devices) =================== */
+
+@media screen and (max-width: 2560px) {
+  header {
+    height: 100vh;
+  }
+
+  .me-image {
+    width: 60%;
+    height: 70%;
+  }
+}
+
+/* =================== MEDIA (laptop L devices) =================== */
+
+@media screen and (max-width: 1440px) {
+  header {
+    height: 100vh;
+  }
+
+  .me-image {
+    width: 50%;
+    height: 60%;
+  }
+}
+
+/* =================== MEDIA (1920 devices) =================== */
+
+@media screen and (max-width: 1920px) {
+  header {
+    height: 100vh;
+  }
+
+  .me-image {
+    width: 50%;
+    height: 60%;
+  }
+}
+
+/* =================== MEDIA (laptop devices) =================== */
 
 @media screen and (max-width: 1024px) {
   header {
@@ -74,8 +113,21 @@ header {
   }
 
   .me-image {
-    width: 80%;
-    height: 65%;
+    width: 50%;
+    height: 52.5%;
+  }
+}
+
+/* =================== MEDIA (medium devices) =================== */
+
+@media screen and (max-width: 1023px) {
+  header {
+    height: 100vh;
+  }
+
+  .me-image {
+    width: 70%;
+    height: 52.5%;
   }
 }
 

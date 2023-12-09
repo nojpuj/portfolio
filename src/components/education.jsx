@@ -35,6 +35,13 @@ const education = () => {
                 <small className="text-light">Graduated 2023</small>
               </div>
             </article>
+            <article className="experience__details">
+              <MdOutlineSchool className="experience__details-icon" />
+              <div>
+                <h4>Univeristy of Oslo</h4>
+                <small className="text-light">Studying IT: Robotics</small>
+              </div>
+            </article>
           </div>
         </div>
         <div className="prog">

@@ -5,7 +5,7 @@ import ME from "../assets/me-about.jpeg";
 const about = () => {
   return (
     <section id="about">
-      <br />
+      {/* <br /> */}
       <h5>Get To Know</h5>
       <h2>Me</h2>
 
@@ -18,7 +18,7 @@ const about = () => {
 
         <div className="about__content">
           <p>
-            I'm an ambitious and passionate 18-year-old coder, skater and
+            I'm an ambitious and passionate 19-year-old coder, alpine-skier and
             guitarist. Because of my long time gaming career, I know quite a lot
             about computers. Not only coding them, but also building them and
             setting them up. Get in touch with me from the contacts section!
